@@ -304,8 +304,8 @@ def name2():
 			else:
 				pool.submit(𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥-SINGH-BAWA_,idf,pwv)
 	
-# 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥-SINGH-BAWA_🔥ER
-def 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥-SINGH-BAWA_🔥(idf,pwv):
+# 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥-SINGH-BAWA_🔥
+def 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥-SINGH-BAWA_(idf,pwv):
 	global loop,ok,cp
 	bi = random.choice([u,k,kk,b,h,hh])
 	pers = loop*100/len(id2)
