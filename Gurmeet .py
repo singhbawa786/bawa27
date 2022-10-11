@@ -267,11 +267,11 @@ def name():
 				else:
 					pwv = [name, xz[0]+xz[0],xz[0]+xz[1]+"12345", xz[0]+xz[1]+"786",xz[0]+xz[1]+"123",xz[0]+xz[1]+"1234"]
 				if 'mobile' in method:
-					pool.submit(𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥-SINGH-BAWA_,idf,pwv)
+					pool.submit(𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥-SINGH-BAWA_ ,idf,pwv)
 				elif 'free' in method:
 					pool.submit(free,idf,pwv)
 				else:
-					pool.submit(𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥-SINGH-BAWA_,idf,pwv)
+					pool.submit(𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥-SINGH-BAWA_ ,idf,pwv)
 			except:
 				pass
 def name2():
